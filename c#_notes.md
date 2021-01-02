@@ -47,3 +47,36 @@ Brings Up Intellsense.
 
 snippet want large chunk code
 
+// DAY 02 Learning Csharp 
+
+
+string firstName ="";
+
+Varibles Holds information. 
+
+The Varible Declartion is string firstName
+
+The initial assignment is ="";
+
+Declaring a string varaible string is the TYPE
+
+Giving it a name what ever you want to call it. 
+
+You cannot use spaces ,special characters ?<>%$
+
+
+
+In summary 
+
+string = type 
+
+name = viariable 
+
+initial value =| = ""; 2 double quotes
+
+quotes  "" = tells its a string 
+
+can put anything in string varible example 
+
+firstName = "Bl ^$%*# 344324";
+
